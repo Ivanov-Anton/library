@@ -7,7 +7,10 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import javax.sql.DataSource;
-
+/**
+* Doc
+*
+*/
 public class Database {
 
     private static Connection conn;    
